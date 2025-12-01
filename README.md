@@ -19,3 +19,5 @@ import csv  # New library for handling CSV files
 ✔ Python’s built-in module.
 ✔ Used to create and write data into CSV files (Excel-like format).
 ✔ Helpful to store scraped data for analysis.
+
+The headers in web scraping are used to make your request look like a real browser. Many websites block bots or scripts, so sending headers makes the website think a real human is visiting.
