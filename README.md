@@ -48,4 +48,3 @@ BeautifulSoup takes that HTML and converts it into structured data, so we can se
 
 This line parses the HTML for web scraping.
 
-Hey Boy
